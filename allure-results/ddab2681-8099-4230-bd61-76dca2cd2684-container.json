@@ -1,0 +1,1 @@
+{"uuid":"ddab2681-8099-4230-bd61-76dca2cd2684","name":"base.BaseClass.logOut","children":["b799fabd-fc32-4e09-803d-2f1ef18ee435"],"description":"","befores":[],"afters":[{"name":"logOut","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1647362507277,"stop":1647362509962}],"start":1647362507277,"stop":1647362509962}
